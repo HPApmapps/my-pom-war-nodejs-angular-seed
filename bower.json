@@ -1,0 +1,10 @@
+{
+  "name": "appPulse",
+  "version": "1.0.0",
+  "authors": [
+    "HPapmapps"
+  ],
+  "description": "appPulse css",
+  "main": "appPulse.js",
+  "license": "MIT"
+}
